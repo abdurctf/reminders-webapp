@@ -1,7 +1,7 @@
 # reminders-app
-
-Run vue ui in cmd to and then run the project
-
+```
+Run vue ui in cmd and then run the project
+```
 ## Project setup
 ```
 npm install
